@@ -1,2 +1,6 @@
+hello how are you
+Bharti Sharma
+Budh Vihar
+abc
 this is file 2 content
 change in this to check in new branch
